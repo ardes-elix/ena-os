@@ -6,11 +6,11 @@ Arch-based distro with BSPWM, Polybar and custom modules. Minimal, blazing fast,
 - 🌀 60s psychedelic aesthetic
 - 🧠 BSPWM window manager
 - 🎛️ Custom Polybar with:
-  - Weather, updates, wifi, playerctl, workspaces with icons
+  - Weather, updates, wifi, player, workspaces with custom icons
 - 🔊 Pipewire for sound
-- 🗂️ Nautilus, Firefox, VLC, Flameshot, Fastfetch and more
+- 🗂️ Thunar, Firefox, VLC, Shortwave, Fastfetch and more
 - 📦 Pacman + Flatpak support
-- 🛠️ Modular configs and scripted install with `gum`
+- my favorite Iosevka fonts here and there and anywhere possible..
 
 ## Installation
 Coming soon: installer script with effects
